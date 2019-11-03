@@ -1,0 +1,18 @@
+{
+  "name": "desafio_01",
+  "version": "1.0.0",
+  "description": "Primeiro desafio da go-stack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": "https://github.com/luannrodrigo/desafio_01",
+  "author": "luann Rodrigo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
